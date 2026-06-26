@@ -1,0 +1,10 @@
+file_format: "1"
+id: pie40
+name: pie40
+type: shield
+url: 
+requires: [e73_module]
+features:
+  - keys
+  - underglow
+  - studio
